@@ -1,0 +1,11 @@
+# please do change path of files in data
+
+anad make sure to insert data in file as format:
+
+id name fatherIncome percetage
+
+1234 Abdullah 1200 90
+
+
+The lower income and te higher percentage would get High score.
+
